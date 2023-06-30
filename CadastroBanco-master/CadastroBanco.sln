@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadastroOnline", "cadastroOnline\cadastroOnline.csproj", "{B14FBEF7-6001-47BF-8065-BCAB3127C165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroBanco", "CadastroBanco\CadastroBanco.csproj", "{275F5869-D4F0-419C-A679-8C819DCA8825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B14FBEF7-6001-47BF-8065-BCAB3127C165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14FBEF7-6001-47BF-8065-BCAB3127C165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14FBEF7-6001-47BF-8065-BCAB3127C165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14FBEF7-6001-47BF-8065-BCAB3127C165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275F5869-D4F0-419C-A679-8C819DCA8825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275F5869-D4F0-419C-A679-8C819DCA8825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275F5869-D4F0-419C-A679-8C819DCA8825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275F5869-D4F0-419C-A679-8C819DCA8825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AC20D4-CC51-4837-BE54-8FC8273D65C6}
+	EndGlobalSection
+EndGlobal
